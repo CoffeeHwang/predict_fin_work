@@ -11,7 +11,7 @@
  - requirements.txt : 필요 패키지 목록
 
 ## 작동방식
-   1. Cloud Functions에 배포된 get_predict_endtime 함수를 HTTP 트리거를 이용한 호출을 한다.
+   1. Google Cloud Functions에 배포된 get_predict_endtime 함수를 HTTP 트리거를 이용한 호출을 한다.
    2. 예측 종료시간을 반환한다. 
 --- 
 
